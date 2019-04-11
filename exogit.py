@@ -1,0 +1,7 @@
+x=input("Entrer votre première valeur?")
+y=input("Entrer votre deuxième valeur?")
+x=float(x)
+y=float(y)
+s=(x+y)
+m=(s/2)
+print("La moyenne est égale à:",m)
